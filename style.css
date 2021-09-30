@@ -1,0 +1,19 @@
+body {
+    //background-image: url("ig.jpg");
+    //color: white;
+    background-image: linear-gradient(to right, lightblue, lightpink);
+    overflow-wrap: break-word;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#row3b {
+    padding-right: 20px;
+}
+
+h4 {
+    margin-left: 35px;
+}
+
+#ResultBtn {
+    margin-left:15px;
+}
